@@ -34,6 +34,4 @@ Padrões de projeto ajudam a estruturar o desenvolvimento de software de forma o
 - Endpoints para `produto` e `cliente`.
 - Métodos: `GET`, `POST`, `PUT`, `DELETE`.
 
-Exemplo de rota:  
-```http
-GET http://localhost:8001/produto
+
