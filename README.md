@@ -1,4 +1,4 @@
-# API Lojinha com Node.js – Padrão MVC
+# API Lojinha com Node.js 
 
 ## 🎯 Tema da Pesquisa
 Padrões de projeto ajudam a estruturar o desenvolvimento de software de forma organizada, escalável e reutilizável. No desenvolvimento de APIs REST com Node.js, a adoção de padrões como o MVC é fundamental para separar responsabilidades e tornar o sistema mais modular.
